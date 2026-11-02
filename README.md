@@ -6,8 +6,8 @@ The analysis use microsoft excel to clean organize and analyze the data
 - To understand the Titanic dataset
 - To undestand the no of passengers who survive
 - to inverstigate the relationship between age and survival
-  # CRISP-MD METHODOLOGY
-  ## PHASE 1: BUSINESS UNDERSTANDING
+
+ ##  BUSINESS UNDERSTANDING
   **objectives**
   To use data analysis to identify patterns and factors associate with survival
   **Business Questions**
