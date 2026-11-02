@@ -20,19 +20,20 @@ The analysis use microsoft excel to clean organize and analyze the data
     ## PHASE 2 : DATA UNDERSTANDING
     - The dataset contain passenger information,including
 
-    colunm              Description                                
-    Passenderid         unique passenger identification
-    survive            0=Did not survive,1=survive
-    Pclass             Passenger class(1,2,3)
-    Name               Passenger name
-    Sex                passenger gender
-    Age                Passenger age
-    Sibsp             Number of sibling or spouse aboard
-    Parch             Number of parent or children aboard
-    Ticket            Ticket number
-    Fare              Ticket fare
-    Cabin             cabin number
-    Embarked          Port of embarkation
+  
+-colunm              Description                                
+   - Passenderid         unique passenger identification
+    -survive            0=Did not survive,1=survive
+    -Pclass             Passenger class(1,2,3)
+   - Name               Passenger name
+   - Sex                passenger gender
+    -Age                Passenger age
+   -Sibsp             Number of sibling or spouse aboard
+    -Parch             Number of parent or children aboard
+    -Ticket            Ticket number
+    -Fare              Ticket fare
+    -Cabin             cabin number
+    -Embarked          Port of embarkation
 
     ## PHASE 3: DATA PREPARATION
     The data were prepare using the Microsoft excel.
